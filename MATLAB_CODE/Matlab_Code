@@ -1,0 +1,15 @@
+Here you will find the MATLAB code generated for the data signal processing. It is based on the Pan-Tompkins algorythm. 
+
+The code is commented so you can just read what it does! But generally, it reads the data from the data.log written in .txt. Then,
+it is converted into a vector. That array of data is all the data taken during the sample time. 
+
+After having all the date storaged in an array of data, we need to filter all of that data. Different filters are applied, based on the 
+filter criteria of the Pan-Tompkins algorythm (Tompkins, P. & Pan, J., 1985)
+
+
+REFERENCES
+
+Tompkins, P. & Pan, J., 1985 , https://www.robots.ox.ac.uk/~gari/teaching/cdt/A3/readings/ECG/Pan+Tompkins.pdf
+
+
+
