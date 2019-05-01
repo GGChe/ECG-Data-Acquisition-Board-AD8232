@@ -43,7 +43,7 @@ You will need to install some of the following softwares:
 ### Installing
 
 Download the files, print the PCB and solder it. The final device should look like this:
-![IMG_20170529_094447](https://user-images.githubusercontent.com/16301652/57015485-f528a600-6c0c-11e9-973a-2b1ea5bc4ee7.jpg | width=100)
+![IMG_20170529_094447](https://user-images.githubusercontent.com/16301652/57015485-f528a600-6c0c-11e9-973a-2b1ea5bc4ee7.jpg =250x250)
 
 
 ## Running the tests
