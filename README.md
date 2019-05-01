@@ -16,7 +16,7 @@ Components required:
 - ECG Electrodes
 - Print your PCBs
 - SMD resistors:
-  - sub 1x100Kohm
+  - 1x100Kohm
   - 3x1Mohm
   - 6x10Kohm
   - 2x180Kohm
