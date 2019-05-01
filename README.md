@@ -26,11 +26,11 @@ Components required:
   - 1x10Kohm
   - 2x0ohm
 - Capacitors:
-- - 1x0.01uF
-- - 2x0.33uF
-- - 1x1500pF
-- - 1x1000pF
-- - 2x0.01uF
+  - 1x0.01uF
+  - 2x0.33uF
+  - 1x1500pF
+  - 1x1000pF
+ - 2x0.01uF
 - Audio Jack SMT 3.5mm
 - LED standard SMD
 AD8232 SMD ECG front end
