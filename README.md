@@ -30,7 +30,7 @@ Components required:
   - 2x0.33uF
   - 1x1500pF
   - 1x1000pF
- - 2x0.01uF
+  - 2x0.01uF
 - Audio Jack SMT 3.5mm
 - LED standard SMD
 AD8232 SMD ECG front end
@@ -43,6 +43,7 @@ You will need to install some of the following softwares:
 ### Installing
 
 Download the files, print the PCB and solder it. The final device should look like this:
+![IMG_20170529_094447](https://user-images.githubusercontent.com/16301652/57015485-f528a600-6c0c-11e9-973a-2b1ea5bc4ee7.jpg)
 
 
 ## Running the tests
