@@ -43,62 +43,24 @@ You will need to install some of the following softwares:
 ### Installing
 
 Download the files, print the PCB and solder it. The final device should look like this:
-![IMG_20170529_094447](https://user-images.githubusercontent.com/16301652/57015485-f528a600-6c0c-11e9-973a-2b1ea5bc4ee7.jpg width="48")
+![IMG_20170529_094447](https://user-images.githubusercontent.com/16301652/57015485-f528a600-6c0c-11e9-973a-2b1ea5bc4ee7.jpg)
 
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+To run a test, you would need to download the code provided for arduino and upload it to the microcontroller. Then, connect the second board in the correct orientation and finally, connect the electrodes to the chest in the Einthoven Triangle. That's the best configuration for obtaining the high quality signal. However, do not worry about the microshocks because the current used in the system is not strong enough to produce any organic failure in the patient's body.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Gabriel Galeote Checa** - *Whole system* - [Gabriel Galeote Checa](https://github.com/GGChe)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Any inquiry of consulting, please write an issue or send me a message to gabrielgaleote@uma.es
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This is an open source project with a creative commons license.
 
-## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
 
 
