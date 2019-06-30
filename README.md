@@ -52,7 +52,7 @@ To run a test, you would need to download the code provided for arduino and uplo
 
 ## Authors
 
-* **[Gabriel Galeote Checa](https://github.com/GGChe)
+* [Gabriel Galeote Checa](https://github.com/GGChe)
 
 Any inquiry of consulting, please write an issue or send me a message to gabrielgaleote@uma.es
 
